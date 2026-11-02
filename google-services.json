@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760133394923",
+    "project_id": "quismi-live",
+    "storage_bucket": "quismi-live.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760133394923:android:be457330c6464c903439ae",
+        "android_client_info": {
+          "package_name": "com.qismilive.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV46aYMxo-nNWEQ7r5DVT7CF4X4dNB2YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
